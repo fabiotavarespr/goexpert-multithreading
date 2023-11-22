@@ -19,14 +19,16 @@ This project implements the second challenge - Multithreading - for the Postgrad
 go run main.go ${CEP}
 ```
 
-### Example
-```sh
-go run main.go 04121-002
-```
-
 ### Response example
 ```sh
+go run main.go 04121-002
 2023/11/21 22:10:00 Received from viacep.com.br: 
  {04121-002 Rua Santa Cruz de 1801 ao fim - lado ímpar Vila Mariana São Paulo SP 3550308 1004 11 7107}
 
+```
+
+### Example of an error response
+```sh
+go run main.go
+2023/11/21 22:10:01 Enter a zip code
 ```

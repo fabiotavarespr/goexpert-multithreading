@@ -1,5 +1,5 @@
 # Multithreading - Go Expert
-[![Go](https://img.shields.io/badge/go-1.21.0-informational?logo=go)](https://go.dev)
+[![Go](https://img.shields.io/badge/go-1.21.4-informational?logo=go)](https://go.dev)
 
 This project implements the second challenge - Multithreading - for the Postgraduate in Go Expert.
 

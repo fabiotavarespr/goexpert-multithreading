@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Ideas project file (remove the comment below to include it)
+.idea
